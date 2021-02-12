@@ -8,4 +8,4 @@ g++ -std=c++11 -w  main.cpp
 
 To Run
 
-./hash
+./a.out
